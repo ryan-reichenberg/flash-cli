@@ -14,7 +14,7 @@ Flash aims to provide an easy mechanism to quickly benchmark API endpoint perfor
 ## Installation
 
 ```
-go install github.com/ryan-reichenberg/flash-cli
+go install github.com/ryan-reichenberg/flash
 ```
 
 ## Usage

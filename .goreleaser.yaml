@@ -8,6 +8,8 @@
 
 version: 1
 
+project_name: flash
+
 before:
   hooks:
     # You may remove this if you don't use go modules.
